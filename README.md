@@ -1,6 +1,6 @@
 # QGIS Style
 
-A Style for QGIS Layers. The goal is to recreate the design of the ground map of Canton Zürich. The layerdefinition file can be added to QGIS and applies to all layers. 
+A Style for QGIS Layers. The goal is to recreate the design of the ground map of Canton Zürich. The layer definition file, also known as QLR, can be added to QGIS and applies to all layers. 
 
 ## Bodenkarte kt.Zh
 
